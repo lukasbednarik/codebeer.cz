@@ -42,8 +42,5 @@ na Facebooku nebo koukněte do kalendáře níže.
 
 ## Kalendář akcí
 
-Kalendář všech konferencí, eventů a meetupů v ČR a na Slovensku.
-
-
-TODO Web: Kalebdar dev akci, srazy,
-fotky z eventu,
+[Kalendář vývojářských konferencí, eventů a meetupů](/kalendar) v ČR a na Slovensku
+včetně podrobného seznamu sledovaných akcí najdete na samostatné stránce.
