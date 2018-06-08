@@ -196,6 +196,16 @@ iframe {
   border-width: 0;
 }
 
+p input {
+  font-family: monospace;
+  font-size: 1em;
+  background-color: #FFF9F8;
+  width: 100%;
+  border: none;
+  padding: 0.8em 1.2em;
+  overflow: hidden;
+}
+
 footer {
   width:270px;
   float:left;

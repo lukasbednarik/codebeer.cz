@@ -11,7 +11,7 @@ Sdílíme zkušenosti z rostoucích firem, z korporátů, konferencí. Bavíme s
 architektury, programovacích jazycích, automatizaci a dobrých praktikách vývoje, ale také o vedení lidí,
 metodikách vývoje software, motivaci a firemní kultuře.
 
-Potřebujete poradit? Podpořit? Zaškolit? Je nás tu hodně a věříme, že to jde. 
+Potřebujete poradit? Podpořit? Zaškolit? Je nás tu hodně a věříme, že to jde.
 
 ## Typické Code Beer
 
@@ -40,7 +40,10 @@ Někdy se místo celého Code Beer přesuneme do Impact Hubu, kde pořádáme [C
 Pro informace o plánovaných srazech navštivte [Code Beer](https://www.facebook.com/groups/free.code.beer/)
 na Facebooku nebo koukněte do kalendáře níže.
 
-## Kalendář akcí
+## Kalendář vývojářských akcí
 
-[Kalendář vývojářských konferencí, eventů a meetupů](/kalendar) v ČR a na Slovensku
-včetně podrobného seznamu sledovaných akcí najdete na samostatné stránce.
+Kromě komunity udržujeme [Kalendář vývojářských konferencí, eventů a meetupů](/kalendar) v ČR a na Slovensku.
+
+{% include calendar.html %}
+
+Podívejte se na [seznam akcí, které sledujeme](/kalendar).
