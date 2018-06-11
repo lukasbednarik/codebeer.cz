@@ -15,7 +15,7 @@ Kalendář vývojářských konferencí, eventů a meetupů v ČR a na Slovensku
 | [PyCon CZ](https://cz.pycon.org) | Praha | Python. |
 | [PyCon SK](https://pycon.sk) | Bratislava | Python. |
 | [UXZ](http://www.uxz.cz/) | Praha | UX z praxe. |
-| [Robory](https://www.konference-roboty.cz/) | Brno | Trendy v robotizaci a automatizaci. |
+| [Roboty](https://www.konference-roboty.cz/) | Brno | Trendy v robotizaci a automatizaci. |
 | [HYPERCON 2.0](http://hypercon.cz/) | Praha | Virtualizace v Microsoft Hyper-V. |
 | [G2B TechEd](https://www.g2bteched.cz/cs/) | Brno | Novinky a trendy společnosti Microsoft. |
 | [XML Prague](http://www.xmlprague.cz/) | Praha | XML a markup na webu. |
@@ -32,7 +32,7 @@ Kalendář vývojářských konferencí, eventů a meetupů v ČR a na Slovensku
 | [GAME ACCESS](http://www.game-access.com/) | Brno | Vývoj her. |
 | [DISCcon](https://www.disccon.com/) | Brno | Bezpečnost, cloud. |
 | [TechEd DevCon](https://www.teched.cz/cs/) | Praha | Novinky a trendy společnosti Microsoft. |
-| [MDEVTALK](https://www.mdevtalk.cz/) | Praha | Mobilní vývoj, pořádá Avast 6x ročně. |
+| [MDEVTALK](https://www.mdevtalk.cz/) | Praha | Mobilní vývoj, pořádá Avast 4x ročně. |
 | [Jobs Dev](https://www.jobsdev.cz/) | Praha | Veletrh pracovních příležitostí pro seniorní programátory. |
 | [DrupalCampCS](http://drupalcs.camp/) | Brno | Redakční systém Drupal. |
 | [Barcamp Brno](http://www.barcampbrno.cz) | Brno | Různá témata, nejen vývoj. |
@@ -66,7 +66,7 @@ Stanete se tak členem komunity organizátorů :)
 ### Jak si kalendář přidám do svých Google Calendar?
 
 Klikněte na odkaz:
-[Přidat kalendář do kalendářů Google](https://calendar.google.com/calendar/render?cid=lukasbednarik.cz_1fv59ppgg4c5p388vcap4v10c8@group.calendar.google.com). Pro přístup ke kalendáři z jiných aplikací lze využít veřejnou adresu iCal:
+[přidat kalendář do kalendářů Google](https://calendar.google.com/calendar/render?cid=lukasbednarik.cz_1fv59ppgg4c5p388vcap4v10c8@group.calendar.google.com). Pro přístup ke kalendáři z jiných aplikací lze využít veřejnou adresu iCal:
 
 <input onClick="this.setSelectionRange(0, this.value.length)" value="https://calendar.google.com/calendar/ical/lukasbednarik.cz_1fv59ppgg4c5p388vcap4v10c8%40group.calendar.google.com/public/basic.ics" readonly>
 
