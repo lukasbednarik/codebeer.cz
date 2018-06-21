@@ -49,6 +49,9 @@ Kalendář vývojářských konferencí, eventů a meetupů v ČR a na Slovensku
 | [CodeBeer](https://codebeer.cz) | Brno | Setkání komunity Code Beer. |
 | [Frontendisti](http://frontendisti.cz/) | Praha, Brno, Plneň, Ostrava | Setkání front-end developerů. |
 | [FPBrno](https://fpbrno.github.io/) | Brno | Functional Programming Brno. |
+| Komunita | Praha | Desítky komunitních akcí v Praze. |
+| Komunita | Brno | Desítky komunitních akcí v Brně. |
+| Komunita | Ostrava | Několik komunitních akcí v Ostravě. |
 
 ## FAQ
 
