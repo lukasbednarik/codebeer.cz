@@ -3,7 +3,7 @@ layout: default
 title: Domů
 ---
 
-# Code Beer
+# Brno Code Beer
 
 Za Code Beer stojí komunita, která propojuje vývojáře seniory, juniory a lidi se zájmem
 o vývoj software. Členové komunity se vzájemně podporují a díky tomu rostou.
@@ -37,7 +37,7 @@ Někdy se místo celého Code Beer přesuneme do Impact Hubu, kde pořádáme [C
 [Architectural Kata](https://archkatas.herokuapp.com/). Do budoucna bychom chtěli zkusit
 řešit úkoly [Free Code Camp](https://www.freecodecamp.org/) při párovém programování.
 
-Pro informace o plánovaných srazech navštivte [Code Beer](https://www.facebook.com/groups/free.code.beer/)
+Pro informace o plánovaných srazech navštivte [Code Beer](https://www.facebook.com/groups/brno.code.beer/)
 na Facebooku nebo koukněte do kalendáře níže.
 
 ## Kalendář vývojářských akcí
