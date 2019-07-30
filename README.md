@@ -8,4 +8,4 @@ metodikách vývoje software, motivaci a firemní kultuře. Vývoj software nen�
 
 Potřebujete poradit? Podpořit? Zaškolit? Je nás tu hodně a věříme, že to jde.
 
-Navštivte naši stánku [Code Beer](https://codebeer.cz) a zjistěte víc.
+Navštivte naši stránku [Code Beer](https://codebeer.cz) a zjistěte víc.
